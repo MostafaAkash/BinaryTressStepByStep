@@ -6,3 +6,4 @@ public interface TreeInterface<T>
    public boolean isEmpty();
    public void clear();
 } // end TreeInterface
+//added some command
